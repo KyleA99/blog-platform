@@ -56,3 +56,22 @@ API Documentation: Comprehensive documentation for the API endpoints using Zirco
 
 Conclusion
 By following this guide, you’ll develop a comprehensive understanding of full-stack development, including frontend and backend integration, database management using Query Builder, and API documentation with Zircote Swagger. This project will enhance your coding skills and provide a tangible product to showcase in your portfolio.
+
+For migrations and tables:
+
+Posts:
+
+Each post is authored by a user.
+Each post can belong to a category (if you have categories).
+Each post can have multiple comments.
+Users:
+
+A user can author multiple posts.
+A user can make multiple comments.
+Comments:
+
+Each comment is associated with a single post.
+Each comment is made by a single user.
+Categories:
+
+Each category can be assigned to multiple posts.
