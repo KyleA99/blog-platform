@@ -53,5 +53,6 @@ Features
 User-friendly Interface: A clean and responsive UI for users to read, create, and manage blog posts.
 CRUD Operations: Full functionality for creating, reading, updating, and deleting blog posts.
 API Documentation: Comprehensive documentation for the API endpoints using Zircote Swagger to facilitate future development and maintenance.
+
 Conclusion
 By following this guide, you’ll develop a comprehensive understanding of full-stack development, including frontend and backend integration, database management using Query Builder, and API documentation with Zircote Swagger. This project will enhance your coding skills and provide a tangible product to showcase in your portfolio.
